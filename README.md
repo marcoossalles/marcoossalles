@@ -5,7 +5,7 @@
 - 🖥️ Hoje trabalho Desenvolvimento de automações
 - 📚 Graduada em Análise e Desenvolvimento de Sistemas
 - 📧 E-mail: marcoossalles@hotmail.com
-- 🌱 LinkedIn : https://www.linkedin.com/in/marcos-antonio-sales-0b2955211/
+- 🌐 LinkedIn : https://www.linkedin.com/in/marcos-antonio-sales-0b2955211/
 
 
 **Tecnologia e Ferramentas**
