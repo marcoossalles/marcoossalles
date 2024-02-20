@@ -1,6 +1,6 @@
-# Marcos Sales
+# Marcos Antonio Sales
 
-## Olá pessoal 👋
+## Olá pessoal 👋🤖
 
 - 🖥️ Hoje trabalho Desenvolvimento de automações
 - 📚 Graduada em Análise e Desenvolvimento de Sistemas
