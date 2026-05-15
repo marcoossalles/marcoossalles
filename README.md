@@ -2,13 +2,14 @@
 
 ## Olá pessoal 👋🤖
 
-- 🖥️ Hoje trabalho com Desenvolvimento
+- 🖥️ Hoje trabalho com Desenvolvimento de Software e IA
 - 📚 Graduado em Análise e Desenvolvimento de Sistemas
 - 📧 E-mail: marcoossales@hotmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/marcos-antonio-sales-0b2955211/
 
+---
 
-**Tecnologia e Ferramentas**
+## 🚀 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -29,9 +30,13 @@
 ![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
 ![Multiagents](https://img.shields.io/badge/Multiagents-111111?style=for-the-badge)
 
-### GitHub Stats ⚡
-<div>
-<a href="https://github.com/marcoossalles">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoossalles&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoossalles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/marcoossalles">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoossalles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoossalles&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
